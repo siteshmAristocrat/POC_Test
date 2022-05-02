@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "properties-reader": "^2.2.0",
+    "ws": "^8.5.0"
+  }
+}
